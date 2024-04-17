@@ -1,11 +1,10 @@
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
+</div>
 
-
-  ![Status](./profile-3d-contrib/profile-night-green.svg)
   
-
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xoimoi&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xoimoi&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xoimoi&theme=dracula&utcOffset=-3)](#) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xoimoi&theme=dracula)](#) |  
  | ----------- | ----------- |
 
 
@@ -24,7 +23,9 @@
   </div>
   
  
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</div>
 
 
 

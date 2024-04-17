@@ -5,8 +5,15 @@
 
 <div align="center">
  
-[![backend](https://skillicons.dev/icons?i=javascript,nodejs,express,php,laravel,python,java)](#)  [![front](https://skillicons.dev/icons?i=css,html,vue,react)](#) [![db](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](#) [![devops](https://skillicons.dev/icons?i=git,vscode,docker,github,linux,postman,jenkins)](#)
+[![backend](https://skillicons.dev/icons?i=javascript,nodejs,express,php,laravel,python,java)](#)
 
+[![front](https://skillicons.dev/icons?i=css,html,vue,react)](#)
+
+[![db](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](#)
+
+[![devops](https://skillicons.dev/icons?i=git,vscode,docker,aws,linux,postman,jenkins)](#)
+
+## CONTACT:
 
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/katson1)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/210789016675549184)

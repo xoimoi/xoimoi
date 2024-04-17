@@ -13,19 +13,12 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,vscode,docker,aws,linux,postman,jenkins" alt="html" height="36"/>
 
-## CONTACT:
-<a href="https://github.com/katson1">
-<img src="https://skillicons.dev/icons?i=github" alt="html" height="36"/>
-</a>
-<a href="https://discordapp.com/users/210789016675549184">
-<img src="https://skillicons.dev/icons?i=discord" alt="html" height="36"/>
-</a>
-<a href="https://www.linkedin.com/in/katsonmatheus/">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="html" height="36"/>
-</a>
-<a href="mailto:katson.alves@ccc.ufcg.edu.br">
-<img src="https://skillicons.dev/icons?i=gmail" alt="html" height="36"/>
-</a>
+<br/>
+
+[![github](https://skillicons.dev/icons?i=github)](github.com/katson1)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/210789016675549184)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/katsonmatheus/)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:katson.alves@ccc.ufcg.edu.br)
 
 </div>
   

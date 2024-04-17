@@ -1,19 +1,19 @@
+# Hey!👋
+
+🎯 Goals: Write some code everyday
+ 
+## Languages and tools:
+<div align="center">
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,php,laravel" alt="html" height="36" />
+<img src="https://skillicons.dev/icons?i=css,html,vue,react" alt="html" height="36"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="html" height="36"/>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,jenkins" alt="html" height="36"/>
+<br/><br/>
+<div/>
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katson1&theme=dracula&utcOffset=-3)](#) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katson1&theme=dracula)](#) |  
  | ----------- | ----------- |
 
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,php,laravel" alt="html" height="36" />
-<br/>
-<img src="https://skillicons.dev/icons?i=css,html,vue,react" alt="html" height="36"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="html" height="36"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,docker,aws,linux,postman,jenkins" alt="html" height="36"/>
-
-<br/>
 <br/>
 <br/>
 
@@ -22,7 +22,6 @@
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/katsonmatheus/)
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:katson.alves@ccc.ufcg.edu.br)
 
-</div>
   
 
   

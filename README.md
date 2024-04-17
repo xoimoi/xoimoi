@@ -1,31 +1,16 @@
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" />
-</div>
-
-  
+ 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katson1&theme=dracula&utcOffset=-3)](#) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katson1&theme=dracula)](#) |  
  | ----------- | ----------- |
 
+# SKILLS:
+[![skill](https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,express,vue,docker,github,linux,postman,mongodb,postgres,discord,linkedin,instagram)](#)
 
- 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
-</div>
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/katson1)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/210789016675549184)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/katsonmatheus/)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:katson.alves@ccc.ufcg.edu.br)
 
 
-  </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=xoimoi&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
- 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
-</div>
 
 
 

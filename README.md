@@ -6,9 +6,9 @@
 
 ## Languages and tools:
 <div align="center">
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,php,laravel" alt="html" height="36" />
-<img src="https://skillicons.dev/icons?i=css,html,vue" alt="html" height="36"/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="html" height="36"/>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,php,laravel,css,html,vue,postgres,mysql,mongodb" alt="html" height="36" />
+</a>
 <br/>
 <div/>
  

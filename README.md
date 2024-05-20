@@ -14,8 +14,8 @@
  
  ## Stats and contact:
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katson1&theme=github_dark&utcOffset=-3)](#) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katson1&theme=github_dark)](#) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=katson1&theme=github_dark)](#) |
- | ----------- | ----------- | ----------- |
+ | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katson1&theme=github_dark)](#) | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katson1&theme=github_dark&utcOffset=-3)](#) |
+ | ----------- | ----------- |
  
 <div/>
  

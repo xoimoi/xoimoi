@@ -1,6 +1,6 @@
 # Hey!👋
 
-💻 I'm a full-stack developer focused on back-end technologies, with more than two years of experience in PHP and Laravel. I'm also a big fan of Node.js, which I use for most of my projects.
+💻 I'm a full-stack developer focused on back-end technologies, with more than two years of experience in PHP, Laravel, Javascript and Vue.js. I'm also a big fan of Node.js, which I use for most of my projects. Recently I have fun making projects using the discord API with Dicord.Js.
 
 🎯 Goals: Write code or learn something new every day!
 
